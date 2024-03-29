@@ -1,0 +1,19 @@
+[toolchain]
+
+[features]
+seeds = false
+skip-lint = false
+
+[programs.localnet]
+day_2 = "8xtKxL4HoJU9QmfLwdBsN89PVe6TSgvWE6Hj4CLjozFm"
+calculator = "48HZL5Sks7pS66J4SxXVox5hC6WunrnWyXwryE2dmomY"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "Localnet"
+wallet = "/Users/mattkrak/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"

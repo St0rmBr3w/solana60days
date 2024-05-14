@@ -1,0 +1,10 @@
+Creating token Ag7rLPpu22Mw4UTwg1ekXDh1742pTbujW1JRno5kyvDQ under program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
+
+Address:  Ag7rLPpu22Mw4UTwg1ekXDh1742pTbujW1JRno5kyvDQ
+Decimals:  9
+
+Signature: 4kgHen94UcDqbr4YG8KjGFNnQMpuFXMyzmzqNt7Biy5MSGk8ap8J7ntV7CJ5YBCTzcD661PVWkG39WDbQacF7h9i
+
+Creating account 7Q7meUHUkknZ6VrapnX7SaUFaadZvfqSCD3NVntwc7pN
+
+Signature: 55WYxbdHY4VURH3CgcNdxoc64PtDAZ93LZBb8DzxKQEcXK4Y2SN8iemetnuZDabpQDyjB2UR7U3iGJv3ZXLTqiN1
